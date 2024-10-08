@@ -32,7 +32,7 @@ This Node.js server handles product information through HTTP GET, POST, and DELE
    
 
 2. **Access the Server**
-   - URL: `http://127.0.0.1:5000`
+   - URL: `http://127.0.0.1:4000`
    - Endpoints:
      - `GET /products`
      - `POST /products`
