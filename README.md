@@ -15,10 +15,11 @@ This Node.js server handles product information through HTTP GET, POST, and DELE
 1. **Clone the Repository**
 
    git clone https://github.com/yourusername/your-repo-name.git
+   
    cd your-repo-name
    
 
-2. **Install Dependencies**
+3. **Install Dependencies**
 
    npm install
    
